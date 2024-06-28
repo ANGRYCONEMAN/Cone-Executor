@@ -5,3 +5,4 @@ Do not open the file "Curiosity killed the cat" unless you are curious. (Open it
 If you haven't installed the app you get rickrolled.
 Have fun!
 
+Download: https://github.com/ANGRYCONEMAN/Cone-Executor/archive/refs/heads/main.zip
